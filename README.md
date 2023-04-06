@@ -1,5 +1,12 @@
 # CIS560 Final Project: Mini Minecraft
 
+Play Demo
+--------
+https://user-images.githubusercontent.com/46789205/230482190-8ce626b1-7b76-4fe2-aebd-607b5bc8f341.mp4
+
+
+Overview
+--------
 ## Milestone-3
 
 **Features & Distribution**
